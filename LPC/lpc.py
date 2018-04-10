@@ -1,3 +1,5 @@
+"""From repo: https://github.com/dpwe/elene4896"""
+
 """Linear Predictive Coding analysis and resynthesis for audio."""
 
 import numpy as np
